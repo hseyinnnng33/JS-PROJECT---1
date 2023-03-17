@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Asap&family=Black+Han+Sans&family=Faster+One&family=Inter&family=Lexend+Deca:wght@600&family=Manrope&family=Nosifer&family=Orienta&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,900&family=Russo+One&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+#genel{
+    width: 100%;
+    background-color: #f1f1f1;
+}
+
+.navbar{
+    width: 100%;
+    height: 70px;
+    background-color: #fff;
+}
+
+.navbar .icerik{
+    max-width: 1200px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+ul{
+    display: flex;
+}
+
+li{
+    padding: 0 40px;
+}
+
+a{
+    color: #000000;
+    font-size: 16px;
+}
+
+.orta{
+    width: 100%;
+}
+
+.icerik-1{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.genel{
+    background-color: #ded9d9;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.genel img{
+    width: 800px;
+}
+
+.bir{
+    background-color: #ded9d9;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.bir img{
+    width: 800px;
+}
+
+#birinci{
+    display: none;
+}
+
+#ikinci{
+    display: none;
+}
+
+#ucuncu{
+    display: none;
+}
